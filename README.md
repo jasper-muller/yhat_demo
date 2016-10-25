@@ -6,3 +6,9 @@ A class that performs some basic data-wrangling tasks. It would be super useful 
 
 ## demo.py
 A scripts that demonstrates the use of DataWrangler.py.
+
+## 42.csv
+Some anonymized sample data-dump that contains three columns:
+- ts: the time stamp
+- unit: the units of measurement
+- value: the measured value
