@@ -5,7 +5,7 @@ class DataWrangler(object):
 
     def read_data(self, some_id):
         """Reads the csv for some_id into a pandas DataFrame. Sets the index
-        to of type DateTimeIndex.
+        to type DateTimeIndex.
         """
 
         if not type(some_id) == str:
